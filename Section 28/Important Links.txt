@@ -1,0 +1,4 @@
+Assignment Solutions:
+
+https://replit.com/@ShubhamSarda/TinyPNGSample#main.py
+https://replit.com/@ShubhamSarda/s-WebScrapingWikipedia#main.py

@@ -1,0 +1,5 @@
+Developer Platform: https://developer.twitter.com/en
+
+Tweepy Documentation: https://docs.tweepy.org/en/stable/index.html
+
+Installing new modules: https://help.pythonanywhere.com/pages/InstallingNewModules/
